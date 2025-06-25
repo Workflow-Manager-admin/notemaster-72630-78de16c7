@@ -1,0 +1,15 @@
+/* Modern, minimal, light global style for NoteMaster app */
+@import url('https://fonts.googleapis.com/css?family=Inter:400,600&display=swap');
+
+body, html {
+  min-height: 100vh;
+  background: #f8fafb;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  color: #222;
+}
+
+* {
+  box-sizing: border-box;
+}
